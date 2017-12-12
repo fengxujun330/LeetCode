@@ -1,4 +1,4 @@
-package com.xj.leetcode;
+package cn.xj.code;
 
 /**
  * You are given two non-empty linked lists representing two non-negative integers. 
